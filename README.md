@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello
+
+[Website](https://www.bubby.me)
+
+
+[![Monke](https://github-readme-stats.vercel.app/api?username=BubbyRoosh1&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=BubbyRoosh1&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BubbyRoosh1/BubbyRoosh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
